@@ -11,7 +11,7 @@ public class merge_two_arr {
             }
             for(int n=0;n<arr2.length;n++)
             {
-                new_arr[index] = arr2[n];
+                new_arr[index] = arr2[n];-
                 index++;
             }
         
